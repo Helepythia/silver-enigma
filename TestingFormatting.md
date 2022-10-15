@@ -7,5 +7,8 @@
 
 ## Creating a table:
 
-|First Box| |Second Box|
-|----| |---|
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+
+
+| First Box | | Second Box |
+| --------- | | ---------- |
