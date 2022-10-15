@@ -4,6 +4,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
+(Regular text for comparison)
 
 
 ## Creating a table:
