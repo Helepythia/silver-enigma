@@ -6,5 +6,6 @@
 
 
 ## Creating a table:
+
 |First Box| |Second Box|
 |----| |---|
