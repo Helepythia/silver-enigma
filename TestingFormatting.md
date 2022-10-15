@@ -5,7 +5,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 ## The second largest heading
 ###### The smallest heading
 (Regular text for comparison)
-
+### Three #s
+##### 4#s
+####### 7#s, note that in the edit the # sign changes, bold means it's working, since 7 #s is more than the smallest heading, it will not apply.
 
 ## Creating a table:
 
