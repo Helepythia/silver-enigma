@@ -12,3 +12,10 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 
 | First Box | | Second Box |
 | --------- | | ---------- |
+
+
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
